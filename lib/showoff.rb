@@ -238,6 +238,7 @@ class ShowOff < Sinatra::Application
           seq += 1
         end
       end
+      @logger.debug "-------------------------\n#{final}\n-------------------------"
       final
     end
 
