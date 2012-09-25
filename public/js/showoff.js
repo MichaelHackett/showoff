@@ -69,7 +69,7 @@ function initializePresentation(prefix) {
         $("#slides").show();
 
 	//center slides offscreen
-	centerSlides($('#slides > .slide'))
+	//centerSlides($('#slides > .slide'))
 
 	//copy into presentation area
 	$("#preso").empty()
