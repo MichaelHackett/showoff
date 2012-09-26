@@ -1,4 +1,4 @@
 function setupOnePage() {
   sh_highlightDocument();
-  centerSlides($("#slides > .slide"))
+  //centerSlides($("#slides > .slide"))
 }
